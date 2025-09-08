@@ -1,0 +1,7 @@
+/target
+/node/target
+/contracts/target
+/explorer/.next
+/explorer/node_modules
+.DS_Store
+*.log
