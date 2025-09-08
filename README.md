@@ -1,4 +1,4 @@
-# blockchains-plus
+# Apache Blockchain
 
 A next-generation, Rust-based blockchain platform supporting user-deployable WASM smart contracts, custom tokens, staking, and a modern blockchain explorer.
 
